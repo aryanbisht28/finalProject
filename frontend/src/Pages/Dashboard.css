@@ -1,0 +1,39 @@
+.center {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 35%
+  }
+
+.main{
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    height: 100%;
+
+}
+
+.dashboardtitle{
+    font-family: "Lexend Deca";
+    font-style: "normal";
+    font-size: "1rem";
+    text-align: "center";
+    color: "#FFFFFF",
+}
+
+.image{
+    text-align: center;
+    /* width: 100%; */
+    /* display: inline; */
+}
+/* h1{
+    height: "18.5%";
+                font-family: "Lexend Deca";
+                font-style: "normal";
+                font-weight: "800";
+                font-size: "4rem";
+                line-height: "88px";
+                text-align: "center";
+                color: "#FFFFFF";
+} */
